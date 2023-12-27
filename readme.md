@@ -3,7 +3,7 @@
 Discover more than just a date. Uncover your SoulMate with our unique platform, where you can not only search for the perfect place but also create unforgettable memories together.
 
 ## SRS Document of our project
--link: https://docs.google.com/document/d/1ou00_rOQefMTYR7lj3bZa8yHi-Z9xpBZeZPI4wggHYU/edit?usp=sharing
+- link: http://tinyurl.com/ytv8eu6r
 
 
 ## Table of Contents
@@ -79,7 +79,7 @@ Additional Features:
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/ShahriarHim/CSE470.git
+
    ```
 2. Open the project directory:
    ```
